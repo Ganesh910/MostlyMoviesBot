@@ -1,6 +1,8 @@
 # MostlyMoviesBot
 A Discord bot that is mostly for movie information and interaction with a focus on Letterboxd info/data
 
+This is the discord server that I'm making it for and testing it on: https://discord.gg/MpC9NCrfmS 
+
 
 HELP:
 
