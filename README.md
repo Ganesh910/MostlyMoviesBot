@@ -8,7 +8,7 @@ HELP:
 
 I'm a python novice, I dabbled with it a little a few years ago.
 
-I want my bot to be able to: if someone puts the command !f followed by a movie title (e.g: !f Toy Story ) then the bot responds with a letterboxd.com link to the film: "https://letterboxd.com/film/toy-story/".
+I want my bot to be able to pull information and respond with links and images depending on the command.
 
 
 Any help is very much welcome. Thank you.
